@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="assets/logo.webp" alt="Project Logo" width="200">
+  <img src="logo.webp" alt="Newer Shop Channel Logo" width="200">
 </p>
 
 <h1 align="center">Newer Shop Channel</h1>
 
 <p align="center">
-  Newer Shop by Cooler01, Nintendo Wii, bitetheapple, And Dakotath,
+  Newer Shop by Cooler01, Nintendo Wii, bitetheapple, and Dakotath
 </p>
 
 ---
